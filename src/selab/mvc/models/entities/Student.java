@@ -45,12 +45,11 @@ public class Student implements Model {
 
     public String getCourses() {
         // TODO: Return a comma separated list of course names
-//        String course_string = "";
-//
-//        for (Course courses : courses.keySet())
-//            course_string += courses.getCourseNo() + "-";
-//        return course_string;
-        return "-";
+        String course_string = "";
+
+        for (Course courses : courses.keySet())
+            course_string += courses.getCourseNo() + "-";
+        return course_string;
     }
 
 

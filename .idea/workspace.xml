@@ -1,41 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="08bb0df7-bff4-4eff-8a0e-ee7fb028f803" name="Default Changelist" comment="task1">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/json_20180813.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/json_20180813.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/META-INF/MVC.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/AddStudentToCourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/AddStudentToCourseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/courses/AddCourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/courses/AddCourseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/courses/CourseListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/courses/CourseListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/students/AddStudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/students/AddStudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/students/StudentListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/controllers/students/StudentListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/DataContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/DataContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/DataSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/DataSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/Model.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Weekday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/models/entities/Weekday.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/JsonView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/JsonView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/PlainView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/PlainView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/StaticHtmlView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/StaticHtmlView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MVC/selab/mvc/views/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/controllers/AddStudentToCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/controllers/AddStudentToCourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selab/mvc/views/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/views/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,17 +40,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -89,41 +54,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603700438566</updated>
-      <workItem from="1603700439785" duration="2153000" />
+      <workItem from="1603700439785" duration="2863000" />
+      <workItem from="1603706190900" duration="421000" />
     </task>
+    <task id="LOCAL-00001" summary="task1">
+      <created>1603702874979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603702874980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task1" />
     <option name="LAST_COMMIT_MESSAGE" value="task1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="668" height="206" key="GridCell.Tab.0.bottom" timestamp="1603702248278">
+    <state width="668" height="206" key="GridCell.Tab.0.bottom" timestamp="1603703401591">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="668" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603702248278" />
+    <state width="668" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603703401591" />
     <state width="668" height="245" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1603701790879" />
-    <state width="668" height="206" key="GridCell.Tab.0.center" timestamp="1603702248276">
+    <state width="668" height="206" key="GridCell.Tab.0.center" timestamp="1603703401590">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="668" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603702248276" />
+    <state width="668" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603703401590" />
     <state width="668" height="245" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1603701790878" />
-    <state width="668" height="206" key="GridCell.Tab.0.left" timestamp="1603702248275">
+    <state width="668" height="206" key="GridCell.Tab.0.left" timestamp="1603703401589">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="668" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603702248275" />
+    <state width="668" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603703401589" />
     <state width="668" height="245" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1603701790877" />
-    <state width="668" height="206" key="GridCell.Tab.0.right" timestamp="1603702248277">
+    <state width="668" height="206" key="GridCell.Tab.0.right" timestamp="1603703401591">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="668" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603702248277" />
+    <state width="668" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603703401591" />
     <state width="668" height="245" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1603701790878" />
-    <state x="542" y="328" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603700456233">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="207" y="201" key="Vcs.Push.Dialog.v2" timestamp="1603706600950">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="207" y="201" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603706600950" />
+    <state x="542" y="340" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603703356015">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="340" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603703356015" />
     <state x="542" y="328" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.808@0.23.1440.808" timestamp="1603700456233" />
   </component>
 </project>

@@ -80,11 +80,11 @@ public class Course implements Model {
 
     public String getStudents() {
         // TODO: Return a comma separated list of student names
-//        String student_string ="";
-//        for (Student student : Student.keySet())
-//            student_string += student.getStudentNo() + "-";
-//        return student_string;
-        return "-";
+        String student_string ="";
+        for (Student student : Student.keySet())
+            student_string += student.getStudentNo() + "-";
+        return student_string;
+
     }
 
     /**
