@@ -29,10 +29,13 @@ public class RemoveCourseController extends Controller {
 
         JSONObject input = readJson(body);
         String courseNo = input.getString("courseNo");
+        courses.remove(courses.get(courseNo));
 
         // TODO: Add codes for removing the course
+        Map<String, String> result = new HashMap<>();
+        result.put("success", "true");
+        return new JsonView(new JSONObject(result));
 
-        return null;
     }
 
     @Override

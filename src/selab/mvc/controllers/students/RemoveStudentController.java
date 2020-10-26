@@ -31,7 +31,11 @@ public class RemoveStudentController extends Controller {
 
         // TODO: Add codes for removing the student
 
-        return null;
+        students.remove(students.get(studentNo));
+
+        Map<String, String> result = new HashMap<>();
+        result.put("success", "true");
+        return new JsonView(new JSONObject(result));
     }
 
     @Override
