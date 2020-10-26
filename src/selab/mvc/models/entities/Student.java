@@ -34,12 +34,11 @@ public class Student implements Model {
     public float getAverage() {
         // TODO: Calculate and return the average of the points
 
-//        int average = 0;
-//        for (Integer points : courses.values())
-//            average += points ;
-//        average = average/courses.size();
-//        return average;
-        return 0;
+        int average = 0;
+        for (Integer points : courses.values())
+            average += points ;
+        average = average/courses.size();
+        return average;
 
     }
 

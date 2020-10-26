@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08bb0df7-bff4-4eff-8a0e-ee7fb028f803" name="Default Changelist" comment="task1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="08bb0df7-bff4-4eff-8a0e-ee7fb028f803" name="Default Changelist" comment="task2">
+      <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/entities/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selab/mvc/models/entities/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603700438566</updated>
       <workItem from="1603700439785" duration="2863000" />
-      <workItem from="1603706190900" duration="421000" />
+      <workItem from="1603706190900" duration="736000" />
     </task>
     <task id="LOCAL-00001" summary="task1">
       <created>1603702874979</created>
@@ -64,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603702874980</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task2">
+      <created>1603706871801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603706871801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="task1" />
+    <MESSAGE value="task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task2" />
   </component>
   <component name="WindowStateProjectService">
     <state width="668" height="206" key="GridCell.Tab.0.bottom" timestamp="1603703401591">
@@ -107,10 +116,10 @@
     </state>
     <state width="668" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603703401591" />
     <state width="668" height="245" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1603701790878" />
-    <state x="207" y="201" key="Vcs.Push.Dialog.v2" timestamp="1603706600950">
+    <state x="207" y="201" key="Vcs.Push.Dialog.v2" timestamp="1603706883460">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="207" y="201" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603706600950" />
+    <state x="207" y="201" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603706883460" />
     <state x="542" y="340" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603703356015">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

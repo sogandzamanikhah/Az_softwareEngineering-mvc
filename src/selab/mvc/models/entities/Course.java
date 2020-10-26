@@ -70,12 +70,12 @@ public class Course implements Model {
 
     public float getAverage() {
         // TODO: Calculate and return the average of the points
-//        int average = 0;
-//        for (Integer points : Student.values())
-//            average += points ;
-//        average = average/Student.size();
-//        return average;
-        return 0;
+        int average = 0;
+        for (Integer points : Student.values())
+            average += points ;
+        average = average/Student.size();
+        return average;
+
     }
 
     public String getStudents() {
