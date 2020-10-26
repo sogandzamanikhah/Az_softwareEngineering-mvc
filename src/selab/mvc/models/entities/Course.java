@@ -1,8 +1,10 @@
 package selab.mvc.models.entities;
 
 import selab.mvc.models.Model;
-import sun.misc.Regexp;
 
+
+import java.util.HashMap;
+import java.util.Map;
 import java.util.regex.Pattern;
 
 public class Course implements Model {
@@ -11,11 +13,17 @@ public class Course implements Model {
     private String startTime = null;
     private String endTime = null;
     private Weekday weekday;
+    private Map<Student,Integer> Student = new HashMap<>();
 
 
     @Override
     public String getPrimaryKey() {
         return this.courseNo;
+    }
+
+    public void addStudent(Student s,int point){
+        Student.put(s,point);
+
     }
 
     public void setTitle(String value) { this.title = value; }
@@ -62,11 +70,20 @@ public class Course implements Model {
 
     public float getAverage() {
         // TODO: Calculate and return the average of the points
+//        int average = 0;
+//        for (Integer points : Student.values())
+//            average += points ;
+//        average = average/Student.size();
+//        return average;
         return 0;
     }
 
     public String getStudents() {
         // TODO: Return a comma separated list of student names
+//        String student_string ="";
+//        for (Student student : Student.keySet())
+//            student_string += student.getStudentNo() + "-";
+//        return student_string;
         return "-";
     }
 

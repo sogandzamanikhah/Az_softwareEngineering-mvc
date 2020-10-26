@@ -2,15 +2,22 @@ package selab.mvc.models.entities;
 
 import selab.mvc.models.Model;
 
+import java.util.HashMap;
+import java.util.Map;
 import java.util.regex.Pattern;
 
 public class Student implements Model {
     private String name;
     private String studentNo;
+    private Map<Course,Integer> courses = new HashMap<>();
 
     @Override
     public String getPrimaryKey() {
         return this.studentNo;
+    }
+
+    public void addCourses(Course C,int point){
+        courses.put(C,point);
     }
 
     public void setName(String value) { this.name = value; }
@@ -26,13 +33,26 @@ public class Student implements Model {
 
     public float getAverage() {
         // TODO: Calculate and return the average of the points
+
+//        int average = 0;
+//        for (Integer points : courses.values())
+//            average += points ;
+//        average = average/courses.size();
+//        return average;
         return 0;
+
     }
 
     public String getCourses() {
         // TODO: Return a comma separated list of course names
+//        String course_string = "";
+//
+//        for (Course courses : courses.keySet())
+//            course_string += courses.getCourseNo() + "-";
+//        return course_string;
         return "-";
     }
+
 
     /**
      *
